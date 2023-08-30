@@ -1,7 +1,9 @@
 {
   "cSpell.words": [
+    "benchcases",
     "LLDB",
     "napi",
-    "rspack"
+    "rspack",
+    "tapable"
   ]
 }
